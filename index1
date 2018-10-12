@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Store Manager</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="static/style.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="static/attendant.css" /> 
+    
+    
+</head>
+<body>
+    <div class="container">
+        <div id="branding">
+          <h1><span class="highlight">Store</span> Manager</h1>
+        </div>
+        <nav>
+          <ul>
+            <li><a href="login.html">Dashboard</a></li>
+            <li class="current"><a href="UI/admin_dashboard.html">Admin</a></li>
+            <li class="current"><a href="UI/store_attendant_dashboard.html">Store attendant</a></li>
+        
+          </ul>
+        </nav>
+    </div>
+
+    
+    
+
+</body>
+</html>
